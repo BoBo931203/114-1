@@ -17,5 +17,5 @@ color:
 
 [高科小](http://www.nkust.edu.tw)
 
-![NKUST](123.jpeg "nkust")
+![NKUST](123.png "nkust")
 
