@@ -16,3 +16,6 @@ color:
 ---
 
 [高科小](http://www.nkust.edu.tw)
+
+![NKUST]()
+
